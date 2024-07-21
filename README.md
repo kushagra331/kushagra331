@@ -7,7 +7,7 @@
 I'm a React.js developer based in Delhi, India, specializing in React, Redux, JavaScript, and frontend technologies. With over three years of experience, I am proficient in state management, performance optimization, and mentoring junior team members.
 
 - 🔭 I’m currently working on enhancing my skills and contributing to open-source projects.
-- 🌱 I’m currently learning advanced React patterns and TypeScript.
+- 🌱 I’m currently learning advanced React patterns and JavaScript.
 - 👯 I’m looking to collaborate on innovative frontend projects.
 - 🤔 I’m looking for help with complex state management solutions.
 - 💬 Ask me about React, JavaScript, and performance optimization.
