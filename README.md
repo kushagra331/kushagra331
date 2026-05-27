@@ -28,14 +28,14 @@ Tools: GIT, VS Code, GitHub, Postman, JIRA, Figma, Vercel
 ## Experience
 
 ### Senior Front End Engineer | Accenture
-Jan 2024 - Present | Indore, India
+Sep 2024 - Present | Indore, India
 Designed and developed responsive, reusable frontend components using React.js for scalable, client-centric web applications.
 Built interactive dashboards to track client requirements, status, priorities, and KPIs.
 Collaborated with backend teams on API integration, data flow, and schema alignment.
 Translated business cases and product ideas into technical implementations, ensuring performance optimization and clean UI architecture.
 
 ### Software Developer | Tata Consultancy Services
-Jan 2020 - Dec 2024 | Mumbai, India
+Nov 2020 - Aug 2024 | Mumbai, India
 Engineered a complete UI/UX overhaul using React, streamlining navigation and reducing the website's bounce rate by 40%.
 Developed a browser-based application using React.js, increasing user engagement by 20%.
 Reduced page load time on 10 client websites by 30% through advanced optimization techniques.
