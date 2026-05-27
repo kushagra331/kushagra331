@@ -1,5 +1,5 @@
-<h1 align="center">Kushagra Shrivastava</h1>
-<h3 align="center">Senior Software Developer | Accenture</h3>
+<h1 align="center">Kushagra Shrivastava | Senior Software Developer | Accenture</h1>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagra331&label=Profile%20views&color=0e75b6&style=flat" alt="kushagra331" /> </p>
 
