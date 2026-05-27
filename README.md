@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm kushagra shrivastava</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h1 align="center">Kushagra Shrivastava</h1>
+<h3 align="center">Software Developer | React.js, JavaScript, Node.js & Python | Gen AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagra331&label=Profile%20views&color=0e75b6&style=flat" alt="kushagra331" /> </p>
 
