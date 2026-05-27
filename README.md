@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagra331&label=Profile%20views&color=0e75b6&style=flat" alt="kushagra331" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushagra331" alt="kushagra331" /></a> </p>
-
 ## About Me
 
 I'm a Senior Frontend Developer based in Indore, India, with over 5 years of expertise in the React.js ecosystem. Currently working at Accenture, I specialize in delivering high-performance web solutions at scale, modern UI architecture, state management, and performance optimization. I thrive in Agile environments, bridging the gap between design and backend systems to build intelligent workflows and scalable component libraries that drive real business value.
